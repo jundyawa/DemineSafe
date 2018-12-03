@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Demine Safe</string>
+    <string name="webApiKey">AIzaSyAA0D1N0LMxH9YQpLMQWhzlF8QhqaMGzQ8</string>
+    <string name="accessPoint">https://firestore.googleapis.com/v1beta1/projects/demine-safe/databases/(default)/documents</string>
+
+    <string name="osm_accessPoint">https://master.apis.dev.openstreetmap.org/api/0.6</string>
+
+    <string name="Dashboard_Title">Dashboard Help</string>
+    <string name="Dashboard_SubTitle">On this screen you can see relevant data about your operation.</string>
+
+    <string name="Maps_List_Title">Maps List Help</string>
+    <string name="Maps_List_SubTitle">On this screen you can see all your saved maps. To add a new map press the add button on the bottom right corner.</string>
+
+    <string name="Add_Map_Title">App Map Help</string>
+    <string name="Add_Map_SubTitle">Set the bounds of your map by applying a long press on the vertices of your area.</string>
+
+    <string name="Waveform_Adjust">Click on the waveform graph to set the red line above the noise. Also set the minimal number of points to register a peak.</string>
+    <string name="Background_Adjust">Place the detector far from any radioactive sources while it acquires background noise. Wait at least 10 minutes.</string>
+</resources>
+
+   
